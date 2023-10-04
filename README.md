@@ -3,6 +3,8 @@ Chitresh</a></h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Chitresh -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
+
 ### 👨🏻‍💻 &nbsp;About Me
 ```python
 class Chitresh():
@@ -48,6 +50,10 @@ if __name__ == '__main__':
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chitresh-code&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### ⚙️ &nbsp;Trophies
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
