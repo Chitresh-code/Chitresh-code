@@ -26,18 +26,18 @@ if __name__ == '__main__':
 ### 🛠 &nbsp;Tech Stack
 <br>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;\
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Jet Brains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white)&nbsp;
+![Python](https://img.icons8.com/clouds/100/python.png)&nbsp;
+![JavaScript](https://img.icons8.com/pulsar-color/48/javascript.png)&nbsp;
+![C](https://img.icons8.com/plasticine/100/c-programming.png)&nbsp;
+![C++](https://img.icons8.com/ios/50/c-plus-plus-logo.png)&nbsp;\
+![Django](https://img.icons8.com/ios/50/django.png)&nbsp;
+![MySQL](https://img.icons8.com/fluency/48/mysql-logo.png)&nbsp;
+![HTML](https://img.icons8.com/dusk/64/html-5.png)&nbsp;
+![CSS](https://img.icons8.com/dusk/64/css3.png)&nbsp;\
+![Git](https://img.icons8.com/pulsar-color/48/git.png)&nbsp;
+![GitHub](https://img.icons8.com/doodle/40/000000/github--v1.png)&nbsp;
+![Visual Studio Code](https://img.icons8.com/plasticine/100/visual-studio-code-2019.png)&nbsp;
+![Jet Brains](https://img.icons8.com/plasticine/100/rider-jetbrains.png)&nbsp;
 <br>
 <br>
 <br>
