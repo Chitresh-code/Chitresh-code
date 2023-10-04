@@ -5,7 +5,7 @@ Chitresh</a></h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 ```python
-class AbhigyanTrips():
+class Chitresh():
     
   def __init__(self):
     self.name = "Chitresh Gyanani";
@@ -18,7 +18,7 @@ class AbhigyanTrips():
     return self.name
 
 if __name__ == '__main__':
-    me = AbhigyanTrips()
+    me = Chitresh()
 ```
 
 ### 🛠 &nbsp;Tech Stack
