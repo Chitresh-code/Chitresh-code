@@ -42,22 +42,13 @@ Chitresh</a></h2>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
- <!-- Find your icons from here - https://fontawesome.com/icons?d=gallery&s=brands -->
-  <div class="icons-social" style="margin-left: 10px; align:"center">
-    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/chitresh-gyanani-9595a3215/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/Chitresh-code">
-		  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/22677918/chitresh-gyanani">
-			<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	  <a style="margin-left: 10px;" target="_blank" href="https://telegram.me/gyanani21">
-			<img src="https://img.icons8.com/doodle/48/telegram.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/chitreshgyanani/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/chitreshgyanani">
-			<img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="mailto:gychitresh1290@gmail.com">
-				<img src="https://img.icons8.com/doodle/48/gmail-new.png" alt="gmail-new" ></a>
-		<a style="margin-left: 6px;" target="_blank" href="https://github.com/Chitresh-code/me.io/blob/main/Chitresh%20Gyanani%20Resume.pdf">
-					<img src="https://img.icons8.com/plasticine/40/000000/resume.png" ></a>
-  </div>
+<p align="center">
+<a href="https://www.linkedin.com/in/chitresh-gyanani-9595a3215/"<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/></a>
+<a href="https://github.com/Chitresh-code"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png"/></a>
+<a href="https://stackoverflow.com/users/22677918/chitresh-gyanani"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"/></a>
+<a href="https://telegram.me/gyanani21"><img src="https://img.icons8.com/doodle/48/telegram.png"/></a>
+<a href="https://www.instagram.com/chitreshgyanani/"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"/></a>
+<a href="https://twitter.com/chitreshgyanani"><img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png"/></a>
+<a href="mailto:gychitresh1290@gmail.com"><img src="https://img.icons8.com/doodle/48/gmail-new.png"/></a>
+<a href="https://github.com/Chitresh-code/me.io/blob/main/Chitresh%20Gyanani%20Resume.pdf"><img src="https://img.icons8.com/plasticine/40/000000/resume.png"/></a>
+</p>
