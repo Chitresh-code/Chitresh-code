@@ -43,7 +43,7 @@ Chitresh</a></h2>
 ### 🤝🏻 &nbsp;Connect with Me
 
  <!-- Find your icons from here - https://fontawesome.com/icons?d=gallery&s=brands -->
-  <div class="icons-social" style="margin-left: 10px;">
+  <div class="icons-social" style="margin-left: 10px; align:"center">
     <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/chitresh-gyanani-9595a3215/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/Chitresh-code">
