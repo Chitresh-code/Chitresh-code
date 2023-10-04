@@ -4,19 +4,22 @@ Chitresh</a></h2>
 <!-- ## 👋 &nbsp;Hey there! I'm Chitresh -->
 
 ### 👨🏻‍💻 &nbsp;About Me
-<br>
+```python
+class AbhigyanTrips():
+    
+  def __init__(self):
+    self.name = "Chitresh Gyanani";
+    self.username = "Chitresh-code";
+    self.location = "New Delhi, India";
+    self.twitter = "@chitreshgyanani";
+    self.web = "https://my-portfolio-6ae8d.web.app/";
+  
+  def __str__(self):
+    return self.name
 
-💡 &nbsp;Hello! I'm a dedicated student at Greater Noida Institute of Technology, where I'm pursuing my passion for technology and computer science.\
-🧑‍💻 &nbsp;As a Python Developer, I thrive on crafting elegant and efficient solutions to real-world challenges.\ 
-🎓 &nbsp;I specialize in Full Stack Web and Android Development, blending creativity with technical expertise to create engaging user experiences.\
-💾 &nbsp;My database skills include MySQL, ensuring that data is not just stored but also utilized effectively in the applications I build.\
-🚀 &nbsp;My interests extend beyond the code. I'm deeply fascinated by the world of Python, Artificial Intelligence,\
-&nbsp;and Data Analytics, where I'm constantly exploring new frontiers and pushing boundaries.\
-💡 &nbsp;Fun fact: I'm not just about Python—I'm also proficient in C and C++, demonstrating my versatility and love for programming languages.\
-✉️ &nbsp;You can shoot me an email at chitresh_2100874@gniotgroup.edu.in! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé]([https://www.adityavsingh.com/resume.html](https://github.com/Chitresh-code/me.io/blob/main/Chitresh%20Gyanani%20Resume.pdf)) for more details about me. I'm open to feedback and suggestions!
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+if __name__ == '__main__':
+    me = AbhigyanTrips()
+```
 
 ### 🛠 &nbsp;Tech Stack
 <br>
