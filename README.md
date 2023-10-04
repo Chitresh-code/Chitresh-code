@@ -4,12 +4,14 @@ Chitresh</a></h2>
 <!-- ## 👋 &nbsp;Hey there! I'm Chitresh -->
 
 ### 👨🏻‍💻 &nbsp;About Me
+<br>
 
 💡 &nbsp;Hello! I'm a dedicated student at Greater Noida Institute of Technology, where I'm pursuing my passion for technology and computer science.\
 🧑‍💻 &nbsp;As a Python Developer, I thrive on crafting elegant and efficient solutions to real-world challenges.\ 
 🎓 &nbsp;I specialize in Full Stack Web and Android Development, blending creativity with technical expertise to create engaging user experiences.\
 💾 &nbsp;My database skills include MySQL, ensuring that data is not just stored but also utilized effectively in the applications I build.\
-🚀 &nbsp;My interests extend beyond the code. I'm deeply fascinated by the world of Python, Artificial Intelligence, and Data Analytics, where I'm constantly exploring new frontiers and pushing boundaries.\
+🚀 &nbsp;My interests extend beyond the code. I'm deeply fascinated by the world of Python, Artificial Intelligence,\
+&nbsp;and Data Analytics, where I'm constantly exploring new frontiers and pushing boundaries.\
 💡 &nbsp;Fun fact: I'm not just about Python—I'm also proficient in C and C++, demonstrating my versatility and love for programming languages.\
 ✉️ &nbsp;You can shoot me an email at chitresh_2100874@gniotgroup.edu.in! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé]([https://www.adityavsingh.com/resume.html](https://github.com/Chitresh-code/me.io/blob/main/Chitresh%20Gyanani%20Resume.pdf)) for more details about me. I'm open to feedback and suggestions!
@@ -17,6 +19,7 @@ Chitresh</a></h2>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
+<br>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -30,6 +33,7 @@ Chitresh</a></h2>
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jet Brains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white)&nbsp;
+<br>
 <br>
 <br>
 
