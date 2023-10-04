@@ -51,10 +51,6 @@ if __name__ == '__main__':
 </a>
 </p>
 
-### ⚙️ &nbsp;Trophies
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chitresh-code&theme=dracula&column=7" alt="andermendoza" /></a> </p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
