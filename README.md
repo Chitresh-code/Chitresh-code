@@ -46,8 +46,10 @@ if __name__ == '__main__':
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chitresh-code&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Chitresh-code&theme=algolia" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chitresh-code&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://git.io/streak-stats">
+  <img height="180em" src="https://streak-stats.demolab.com?user=Chitresh-code&theme=algolia" alt="GitHub Streak"/>
 </a>
 </p>
 
