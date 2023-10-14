@@ -45,10 +45,10 @@ if __name__ == '__main__':
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Chitresh-Code">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chitresh-code&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Chitresh-code&theme=algolia&type=png" alt="GitHub Streak" /></a>
+<a href="https://github.com/Chitresh-Code"><img src="https://streak-stats.demolab.com?user=Chitresh-code&theme=algolia&type=png" alt="GitHub Streak" /></a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
