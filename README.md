@@ -1,6 +1,8 @@
 Hi 👋 My name is Chitresh Gyanani
 =================================
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chitresh-code&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
+
 Python Developer & Full Stack Enthusiast
 ----------------------------------------
 
@@ -11,7 +13,6 @@ Python Developer & Full Stack Enthusiast
 * 🧠  I'm learning Pandas and TenserFlow.
 * 🤝  I'm open to collaborating on an python or web dev project.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chitresh-code&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 ```python
