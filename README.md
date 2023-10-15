@@ -7,8 +7,8 @@ Python Developer & Full Stack Enthusiast
 ----------------------------------------
 
 * 🌍  I'm based in New Delhi
-* 🖥️  See my portfolio at [here.](http://my-portfolio-6ae8d.web.app/)
-* ✉️  You can contact me at [gychitresh1290@gmail.com](mailto:gychitresh1290@gmail.com)
+* 🖥️  See my portfolio [here.](http://my-portfolio-6ae8d.web.app/)
+* ✉️  You can contact me on [My Gmail](mailto:gychitresh1290@gmail.com)
 * 🚀  I'm currently working on [My Smart India Hackathon Project](http://github.com/Chitresh-code/CaseFlow)
 * 🧠  I'm learning Pandas and TenserFlow.
 * 🤝  I'm open to collaborating on an python or web dev project.
