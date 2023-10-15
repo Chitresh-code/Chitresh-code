@@ -11,8 +11,6 @@ Python Developer & Full Stack Enthusiast
 * 🧠  I'm learning Pandas and TenserFlow.
 * 🤝  I'm open to collaborating on an python or web dev project.
 
-<a href="https://www.github.com/Chitresh-code" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Chitresh-code?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chitresh-code&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
