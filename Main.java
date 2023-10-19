@@ -1,4 +1,4 @@
-//Java Program for Merge Sort
+//Java Program for Merge Sort:
 class Main {
     // this function display the array
     public static void display(int[] arr, int size)
