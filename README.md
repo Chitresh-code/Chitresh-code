@@ -22,7 +22,7 @@ class Chitresh():
     self.username = "Chitresh-code";
     self.location = "New Delhi, India";
     self.twitter = "@chitreshgyanani";
-    self.web = "https://my-portfolio-6ae8d.web.app/";
+    self.web = "https://www.chitresh.tech/";
   
   def __str__(self):
     return self.name
