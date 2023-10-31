@@ -1,7 +1,7 @@
 Hi 👋 My name is Chitresh Gyanani
 =================================
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chitresh-code&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chitresh-code&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p> 
  
 Python Developer & Full Stack Enthusiast 
 ----------------------------------------
