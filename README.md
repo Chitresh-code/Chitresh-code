@@ -13,7 +13,7 @@ Python Developer & Full Stack Enthusiast
 * 🤝  I'm open to collaborating on an python or web dev project.
 
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me 
 ```python
 class Chitresh():
     
