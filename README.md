@@ -7,7 +7,7 @@ Python Developer & Full Stack Enthusiast
 ----------------------------------------
 
 * 🌍  I'm based in New Delhi
-* 🖥️  See my portfolio [here.](https://www.chitresh.tech/)
+* 🖥️  See my portfolio [here.](https://www.chitresh.in/)
 * ✉️  You can contact me on [My Gmail](mailto:gychitresh1290@gmail.com)
 * 🤝  I'm open to collaborating on an python or web dev project.
 
@@ -21,7 +21,7 @@ class Chitresh():
     self.username = "Chitresh-code";
     self.location = "New Delhi, India";
     self.twitter = "@chitreshgyanani";
-    self.web = "https://www.chitresh.tech/";
+    self.web = "https://www.chitresh.in/";
   
   def __str__(self):
     return self.name
