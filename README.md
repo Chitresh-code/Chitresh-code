@@ -45,7 +45,7 @@ if __name__ == '__main__':
 <a href="https://www.instagram.com/chitreshgyanani/"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"/></a>
 <a href="https://twitter.com/chitreshgyanani"><img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png"/></a>
 <a href="mailto:gychitresh1290@gmail.com"><img src="https://img.icons8.com/doodle/48/gmail-new.png"/></a>
-<a href="https://github.com/Chitresh-code/me.io/blob/main/Chitresh%20Gyanani%20Resume.pdf"><img src="https://img.icons8.com/plasticine/40/000000/resume.png"/></a>
+<a href="https://www.chitresh.in/"><img src="https://img.icons8.com/plasticine/40/000000/resume.png"/></a>
 </p>
 
 ### Badges
