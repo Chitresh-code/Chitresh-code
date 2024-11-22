@@ -1,7 +1,7 @@
 Hi 👋 My name is Chitresh Gyanani
 ==================================
 
-<p align="left"> [![](https://visitcount.itsvg.in/api?id=chitresh-code&icon=2&color=0)](https://visitcount.itsvg.in) </p>  
+[![](https://visitcount.itsvg.in/api?id=chitresh-code&icon=2&color=0)](https://visitcount.itsvg.in)
  
 Full Stack Python Developer and ML Researcher
 ----------------------------------------------
