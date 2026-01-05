@@ -128,12 +128,12 @@ me = Chitresh()
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=chitresh-code\&theme=dark\&hide_border=false\&include_all_commits=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=chitresh-code\&theme=dark\&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chitresh-code\&theme=dark\&hide_border=false\&layout=compact)
-
----
+![](https://github-readme-stats.vercel.app/api?username=Chitresh-code&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Chitresh-code&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chitresh-code&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Chitresh-code&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
