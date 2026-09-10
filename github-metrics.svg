@@ -545,8 +545,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Introducing CUDA Rust: Two Tracks for Writing GPU Kernels</div>
-                                <div class="date">9 Sept 2026</div>
+                                <div class="title">The Physics of Database Speed: from 300 to 1M transactions per second</div>
+                                <div class="date">10 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -554,8 +554,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I spend a stupid amount of time on an issue I only half-care about. Now I will foist it on all of you! Enjoy :P</div>
-                                <div class="date">9 Sept 2026</div>
+                                <div class="title">A web regex visualiser with PCRE2</div>
+                                <div class="date">10 Sept 2026</div>
                             </div>
                         </div>
                     </section>
@@ -1787,7 +1787,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.5462012320328578 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.7583846680355926 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2137,7 +2137,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Sept 2026, 03:18:30  with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 10 Sept 2026, 12:44:03  with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
