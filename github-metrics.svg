@@ -527,8 +527,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Announcement: We've Updated The Rules, and April Is Finally Over</div>
-                                <div class="date">23 May 2026</div>
+                                <div class="title">Java 27 has released!</div>
+                                <div class="date">15 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -536,8 +536,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Java 27 has released!</div>
-                                <div class="date">15 Sept 2026</div>
+                                <div class="title">Cobol basics under ~2 hours</div>
+                                <div class="date">16 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -554,8 +554,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A New Equal-Area Map for Interactive Computer Use (natively zooms to Mercator)</div>
-                                <div class="date">15 Sept 2026</div>
+                                <div class="title">The Climb Was the Safety Feature · cekrem.github.io</div>
+                                <div class="date">16 Sept 2026</div>
                             </div>
                         </div>
                     </section>
@@ -1788,7 +1788,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.8193018480492693 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="4.031485284052004 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2138,7 +2138,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Sept 2026, 03:33:28  with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 16 Sept 2026, 13:11:17  with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
