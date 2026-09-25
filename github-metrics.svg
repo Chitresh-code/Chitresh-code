@@ -536,7 +536,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How Retries Turn a Short Outage into a Long One</div>
+                                <div class="title">Writing a ray tracer in Brainfuck</div>
                                 <div class="date">25 Sept 2026</div>
                             </div>
                         </div>
@@ -554,7 +554,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Constructing Anomalous Elliptic Curves</div>
+                                <div class="title">Amiga Screens: A Primer</div>
                                 <div class="date">25 Sept 2026</div>
                             </div>
                         </div>
@@ -2105,7 +2105,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Sept 2026, 13:17:02  with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 25 Sept 2026, 19:51:33  with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
