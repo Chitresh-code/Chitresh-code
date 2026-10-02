@@ -359,6 +359,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">This is the dumbest blog I've seen in a long time from GitHub</div>
+                                <div class="date">2 Oct 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Partial Evaluation in Truffle - Dynamic Meta-Compilation Tutorial</div>
                                 <div class="date">2 Oct 2026</div>
                             </div>
@@ -379,15 +388,6 @@
                             <div class="infos">
                                 <div class="title">Post-Quantum Cryptography Resource Hub</div>
                                 <div class="date">2 Oct 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">New Python releases are out, 3.10.x reaches EOL, (and 3.15.0 is scheduled for today)!</div>
-                                <div class="date">1 Oct 2026</div>
                             </div>
                         </div>
                     </section>
@@ -1937,7 +1937,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Oct 2026, 14:29:29  with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 2 Oct 2026, 20:23:25  with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
