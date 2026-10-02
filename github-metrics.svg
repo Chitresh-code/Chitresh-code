@@ -359,6 +359,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Partial Evaluation in Truffle - Dynamic Meta-Compilation Tutorial</div>
+                                <div class="date">2 Oct 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Robert Seacord: "Unsafe Rust" | RustConf 2026</div>
                                 <div class="date">1 Oct 2026</div>
                             </div>
@@ -368,8 +377,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">C64 Mercenary: a novel exploit bug in a 41-year-old game</div>
-                                <div class="date">1 Oct 2026</div>
+                                <div class="title">Post-Quantum Cryptography Resource Hub</div>
+                                <div class="date">2 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -378,15 +387,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">New Python releases are out, 3.10.x reaches EOL, (and 3.15.0 is scheduled for today)!</div>
-                                <div class="date">1 Oct 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">The Second Golden Spike: Memory Safety Across the Valen/Rust Boundary</div>
                                 <div class="date">1 Oct 2026</div>
                             </div>
                         </div>
@@ -1587,7 +1587,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.848733744010941 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.0609171800136763 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1937,7 +1937,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Oct 2026, 04:17:34  with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 2 Oct 2026, 14:29:29  with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
