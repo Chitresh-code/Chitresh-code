@@ -386,7 +386,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">De-compiling macOS Terminal to make it have workspaces</div>
+                                <div class="title">Speedticket - a different take on a Semaphore, explained as a swimming pool</div>
                                 <div class="date">10 Oct 2026</div>
                             </div>
                         </div>
@@ -1942,7 +1942,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Oct 2026, 14:16:16  with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 10 Oct 2026, 19:48:42  with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
